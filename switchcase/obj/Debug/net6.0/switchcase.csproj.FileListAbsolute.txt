@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\csdersi\repo\switchcase\bin\Debug\net6.0\switchcase.exe
+C:\Users\admin\Desktop\csdersi\repo\switchcase\bin\Debug\net6.0\switchcase.deps.json
+C:\Users\admin\Desktop\csdersi\repo\switchcase\bin\Debug\net6.0\switchcase.runtimeconfig.json
+C:\Users\admin\Desktop\csdersi\repo\switchcase\bin\Debug\net6.0\switchcase.dll
+C:\Users\admin\Desktop\csdersi\repo\switchcase\bin\Debug\net6.0\switchcase.pdb
+C:\Users\admin\Desktop\csdersi\repo\switchcase\obj\Debug\net6.0\switchcase.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\csdersi\repo\switchcase\obj\Debug\net6.0\switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\csdersi\repo\switchcase\obj\Debug\net6.0\switchcase.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\csdersi\repo\switchcase\obj\Debug\net6.0\switchcase.AssemblyInfo.cs
+C:\Users\admin\Desktop\csdersi\repo\switchcase\obj\Debug\net6.0\switchcase.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\csdersi\repo\switchcase\obj\Debug\net6.0\switchcase.dll
+C:\Users\admin\Desktop\csdersi\repo\switchcase\obj\Debug\net6.0\refint\switchcase.dll
+C:\Users\admin\Desktop\csdersi\repo\switchcase\obj\Debug\net6.0\switchcase.pdb
+C:\Users\admin\Desktop\csdersi\repo\switchcase\obj\Debug\net6.0\switchcase.genruntimeconfig.cache
+C:\Users\admin\Desktop\csdersi\repo\switchcase\obj\Debug\net6.0\ref\switchcase.dll
