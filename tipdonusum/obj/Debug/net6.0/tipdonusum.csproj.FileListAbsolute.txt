@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\csdersi\repo\tipdonusum\bin\Debug\net6.0\tipdonusum.exe
+C:\Users\admin\Desktop\csdersi\repo\tipdonusum\bin\Debug\net6.0\tipdonusum.deps.json
+C:\Users\admin\Desktop\csdersi\repo\tipdonusum\bin\Debug\net6.0\tipdonusum.runtimeconfig.json
+C:\Users\admin\Desktop\csdersi\repo\tipdonusum\bin\Debug\net6.0\tipdonusum.dll
+C:\Users\admin\Desktop\csdersi\repo\tipdonusum\bin\Debug\net6.0\tipdonusum.pdb
+C:\Users\admin\Desktop\csdersi\repo\tipdonusum\obj\Debug\net6.0\tipdonusum.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\csdersi\repo\tipdonusum\obj\Debug\net6.0\tipdonusum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\csdersi\repo\tipdonusum\obj\Debug\net6.0\tipdonusum.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\csdersi\repo\tipdonusum\obj\Debug\net6.0\tipdonusum.AssemblyInfo.cs
+C:\Users\admin\Desktop\csdersi\repo\tipdonusum\obj\Debug\net6.0\tipdonusum.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\csdersi\repo\tipdonusum\obj\Debug\net6.0\tipdonusum.dll
+C:\Users\admin\Desktop\csdersi\repo\tipdonusum\obj\Debug\net6.0\refint\tipdonusum.dll
+C:\Users\admin\Desktop\csdersi\repo\tipdonusum\obj\Debug\net6.0\tipdonusum.pdb
+C:\Users\admin\Desktop\csdersi\repo\tipdonusum\obj\Debug\net6.0\tipdonusum.genruntimeconfig.cache
+C:\Users\admin\Desktop\csdersi\repo\tipdonusum\obj\Debug\net6.0\ref\tipdonusum.dll
