@@ -30,4 +30,4 @@
             {
                 toplam += sayi;
             }
-            Console.WriteLine("Ortalama :" + toplam / diziUzunlugu);
+            Console.WriteLine("Ortalama :" + toplam / diziUzunlugu); 
