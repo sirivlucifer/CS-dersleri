@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\csdersi\repo\methodoverload\bin\Debug\net6.0\methodoverload.exe
+C:\Users\admin\Desktop\csdersi\repo\methodoverload\bin\Debug\net6.0\methodoverload.deps.json
+C:\Users\admin\Desktop\csdersi\repo\methodoverload\bin\Debug\net6.0\methodoverload.runtimeconfig.json
+C:\Users\admin\Desktop\csdersi\repo\methodoverload\bin\Debug\net6.0\methodoverload.dll
+C:\Users\admin\Desktop\csdersi\repo\methodoverload\bin\Debug\net6.0\methodoverload.pdb
+C:\Users\admin\Desktop\csdersi\repo\methodoverload\obj\Debug\net6.0\methodoverload.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\csdersi\repo\methodoverload\obj\Debug\net6.0\methodoverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\csdersi\repo\methodoverload\obj\Debug\net6.0\methodoverload.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\csdersi\repo\methodoverload\obj\Debug\net6.0\methodoverload.AssemblyInfo.cs
+C:\Users\admin\Desktop\csdersi\repo\methodoverload\obj\Debug\net6.0\methodoverload.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\csdersi\repo\methodoverload\obj\Debug\net6.0\methodoverload.dll
+C:\Users\admin\Desktop\csdersi\repo\methodoverload\obj\Debug\net6.0\refint\methodoverload.dll
+C:\Users\admin\Desktop\csdersi\repo\methodoverload\obj\Debug\net6.0\methodoverload.pdb
+C:\Users\admin\Desktop\csdersi\repo\methodoverload\obj\Debug\net6.0\methodoverload.genruntimeconfig.cache
+C:\Users\admin\Desktop\csdersi\repo\methodoverload\obj\Debug\net6.0\ref\methodoverload.dll
