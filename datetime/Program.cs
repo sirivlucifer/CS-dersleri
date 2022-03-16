@@ -9,9 +9,9 @@
             Console.WriteLine(DateTime.Now.DayOfWeek);// Bu haftanın hangi günü olduğunu verir.
             Console.WriteLine(DateTime.Now.DayOfYear);// Bu gün yılın kaçıncı günü olduğunu verir.
 
-            Console.WriteLine(DateTime.Now.ToLongDateString());//1 Şubat 2022 Cuma
+            Console.WriteLine(DateTime.Now.ToLongDateString());//
 
-            Console.WriteLine(DateTime.Now.ToShortDateString());//11.02.2022
+            Console.WriteLine(DateTime.Now.ToShortDateString());//
 
             Console.WriteLine(DateTime.Now.ToLongTimeString());
             Console.WriteLine(DateTime.Now.ToShortTimeString());
@@ -24,30 +24,34 @@
             Console.WriteLine(DateTime.Now.AddMilliseconds(100)); 
 
             //DateTime Format
-            Console.WriteLine(DateTime.Now.ToString("dd")); //11
-            Console.WriteLine(DateTime.Now.ToString("ddd")); //Cum
-            Console.WriteLine(DateTime.Now.ToString("dddd")); //Cuma
+            Console.WriteLine(DateTime.Now.ToString("dd")); //
+            Console.WriteLine(DateTime.Now.ToString("ddd")); //
+            Console.WriteLine(DateTime.Now.ToString("dddd")); //C
 
 
-            Console.WriteLine(DateTime.Now.ToString("MM")); //02
-            Console.WriteLine(DateTime.Now.ToString("MMM")); //Şub
-            Console.WriteLine(DateTime.Now.ToString("MMMM")); //Şubat
+            Console.WriteLine(DateTime.Now.ToString("MM")); //
+            Console.WriteLine(DateTime.Now.ToString("MMM")); //
 
-            Console.WriteLine(DateTime.Now.ToString("yy")); //22
-            Console.WriteLine(DateTime.Now.ToString("yyy")); //2022
+            Console.WriteLine(DateTime.Now.ToString("yy")); //
+            
+            Console.WriteLine(DateTime.Now.ToString("yyy")); 
+            
             
             //Math Kütüphanesi
-            Console.WriteLine(Math.Abs(-25));//25
+            Console.WriteLine(Math.Abs(-25));
+            
 
             Console.WriteLine(Math.Sin(10));
             Console.WriteLine(Math.Cos(10));
             Console.WriteLine(Math.Tan(10));
 
 
-            Console.WriteLine(Math.Ceiling(22.3));//22
-            Console.WriteLine(Math.Round(22.3));//22
-            Console.WriteLine(Math.Round(22.7));//26
-            Console.WriteLine(Math.Floor(22.7));//22
+            Console.WriteLine(Math.Ceiling(22.3));//
+
+
+            Console.WriteLine(Math.Round(22.3));//
+            Console.WriteLine(Math.Round(22.7));//
+            Console.WriteLine(Math.Floor(22.7));//
 
             Console.WriteLine(Math.Max(2,3));
             Console.WriteLine(Math.Min(2,3));
