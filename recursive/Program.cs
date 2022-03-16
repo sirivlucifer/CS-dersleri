@@ -10,7 +10,7 @@
             Console.WriteLine(instance.Expo(3, 4));
 
             //Extension Metotlar
-            string ifade = "Fatih Hacıoğlu";
+            string ifade = "Erdem TUncay";
             bool sonuc = ifade.CheckSpaces();
             Console.WriteLine(sonuc);
             if (sonuc)
