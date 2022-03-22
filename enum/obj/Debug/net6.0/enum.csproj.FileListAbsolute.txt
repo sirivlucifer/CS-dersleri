@@ -1,0 +1,15 @@
+F:\kod\CS-dersleri\enum\bin\Debug\net6.0\enum.exe
+F:\kod\CS-dersleri\enum\bin\Debug\net6.0\enum.deps.json
+F:\kod\CS-dersleri\enum\bin\Debug\net6.0\enum.runtimeconfig.json
+F:\kod\CS-dersleri\enum\bin\Debug\net6.0\enum.dll
+F:\kod\CS-dersleri\enum\bin\Debug\net6.0\enum.pdb
+F:\kod\CS-dersleri\enum\obj\Debug\net6.0\enum.csproj.AssemblyReference.cache
+F:\kod\CS-dersleri\enum\obj\Debug\net6.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+F:\kod\CS-dersleri\enum\obj\Debug\net6.0\enum.AssemblyInfoInputs.cache
+F:\kod\CS-dersleri\enum\obj\Debug\net6.0\enum.AssemblyInfo.cs
+F:\kod\CS-dersleri\enum\obj\Debug\net6.0\enum.csproj.CoreCompileInputs.cache
+F:\kod\CS-dersleri\enum\obj\Debug\net6.0\enum.dll
+F:\kod\CS-dersleri\enum\obj\Debug\net6.0\refint\enum.dll
+F:\kod\CS-dersleri\enum\obj\Debug\net6.0\enum.pdb
+F:\kod\CS-dersleri\enum\obj\Debug\net6.0\enum.genruntimeconfig.cache
+F:\kod\CS-dersleri\enum\obj\Debug\net6.0\ref\enum.dll
