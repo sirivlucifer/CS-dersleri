@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\csdersi\\repo\\ifelseif\\ifelseif.csproj": {}
+    "F:\\kod\\CS-dersleri\\ifelseif\\ifelseif.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\csdersi\\repo\\ifelseif\\ifelseif.csproj": {
+    "F:\\kod\\CS-dersleri\\ifelseif\\ifelseif.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\csdersi\\repo\\ifelseif\\ifelseif.csproj",
+        "projectUniqueName": "F:\\kod\\CS-dersleri\\ifelseif\\ifelseif.csproj",
         "projectName": "ifelseif",
-        "projectPath": "C:\\Users\\admin\\Desktop\\csdersi\\repo\\ifelseif\\ifelseif.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\csdersi\\repo\\ifelseif\\obj\\",
+        "projectPath": "F:\\kod\\CS-dersleri\\ifelseif\\ifelseif.csproj",
+        "packagesPath": "C:\\Users\\Luci\\.nuget\\packages\\",
+        "outputPath": "F:\\kod\\CS-dersleri\\ifelseif\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Luci\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

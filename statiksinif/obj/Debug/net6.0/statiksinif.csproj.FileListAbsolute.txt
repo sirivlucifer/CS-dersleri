@@ -1,0 +1,15 @@
+F:\kod\CS-dersleri\statiksinif\bin\Debug\net6.0\statiksinif.exe
+F:\kod\CS-dersleri\statiksinif\bin\Debug\net6.0\statiksinif.deps.json
+F:\kod\CS-dersleri\statiksinif\bin\Debug\net6.0\statiksinif.runtimeconfig.json
+F:\kod\CS-dersleri\statiksinif\bin\Debug\net6.0\statiksinif.dll
+F:\kod\CS-dersleri\statiksinif\bin\Debug\net6.0\statiksinif.pdb
+F:\kod\CS-dersleri\statiksinif\obj\Debug\net6.0\statiksinif.csproj.AssemblyReference.cache
+F:\kod\CS-dersleri\statiksinif\obj\Debug\net6.0\statiksinif.GeneratedMSBuildEditorConfig.editorconfig
+F:\kod\CS-dersleri\statiksinif\obj\Debug\net6.0\statiksinif.AssemblyInfoInputs.cache
+F:\kod\CS-dersleri\statiksinif\obj\Debug\net6.0\statiksinif.AssemblyInfo.cs
+F:\kod\CS-dersleri\statiksinif\obj\Debug\net6.0\statiksinif.csproj.CoreCompileInputs.cache
+F:\kod\CS-dersleri\statiksinif\obj\Debug\net6.0\statiksinif.dll
+F:\kod\CS-dersleri\statiksinif\obj\Debug\net6.0\refint\statiksinif.dll
+F:\kod\CS-dersleri\statiksinif\obj\Debug\net6.0\statiksinif.pdb
+F:\kod\CS-dersleri\statiksinif\obj\Debug\net6.0\statiksinif.genruntimeconfig.cache
+F:\kod\CS-dersleri\statiksinif\obj\Debug\net6.0\ref\statiksinif.dll

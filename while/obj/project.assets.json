@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Luci\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\csdersi\\repo\\while\\while.csproj",
+      "projectUniqueName": "F:\\kod\\CS-dersleri\\while\\while.csproj",
       "projectName": "while",
-      "projectPath": "C:\\Users\\admin\\Desktop\\csdersi\\repo\\while\\while.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\csdersi\\repo\\while\\obj\\",
+      "projectPath": "F:\\kod\\CS-dersleri\\while\\while.csproj",
+      "packagesPath": "C:\\Users\\Luci\\.nuget\\packages\\",
+      "outputPath": "F:\\kod\\CS-dersleri\\while\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Luci\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

@@ -1,0 +1,15 @@
+F:\kod\CS-dersleri\testt\bin\Debug\net6.0\testt.exe
+F:\kod\CS-dersleri\testt\bin\Debug\net6.0\testt.deps.json
+F:\kod\CS-dersleri\testt\bin\Debug\net6.0\testt.runtimeconfig.json
+F:\kod\CS-dersleri\testt\bin\Debug\net6.0\testt.dll
+F:\kod\CS-dersleri\testt\bin\Debug\net6.0\testt.pdb
+F:\kod\CS-dersleri\testt\obj\Debug\net6.0\testt.csproj.AssemblyReference.cache
+F:\kod\CS-dersleri\testt\obj\Debug\net6.0\testt.GeneratedMSBuildEditorConfig.editorconfig
+F:\kod\CS-dersleri\testt\obj\Debug\net6.0\testt.AssemblyInfoInputs.cache
+F:\kod\CS-dersleri\testt\obj\Debug\net6.0\testt.AssemblyInfo.cs
+F:\kod\CS-dersleri\testt\obj\Debug\net6.0\testt.csproj.CoreCompileInputs.cache
+F:\kod\CS-dersleri\testt\obj\Debug\net6.0\testt.dll
+F:\kod\CS-dersleri\testt\obj\Debug\net6.0\refint\testt.dll
+F:\kod\CS-dersleri\testt\obj\Debug\net6.0\testt.pdb
+F:\kod\CS-dersleri\testt\obj\Debug\net6.0\testt.genruntimeconfig.cache
+F:\kod\CS-dersleri\testt\obj\Debug\net6.0\ref\testt.dll

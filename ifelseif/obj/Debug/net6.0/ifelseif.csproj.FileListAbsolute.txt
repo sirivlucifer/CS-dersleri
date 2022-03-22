@@ -1,0 +1,15 @@
+F:\kod\CS-dersleri\ifelseif\bin\Debug\net6.0\ifelseif.exe
+F:\kod\CS-dersleri\ifelseif\bin\Debug\net6.0\ifelseif.deps.json
+F:\kod\CS-dersleri\ifelseif\bin\Debug\net6.0\ifelseif.runtimeconfig.json
+F:\kod\CS-dersleri\ifelseif\bin\Debug\net6.0\ifelseif.dll
+F:\kod\CS-dersleri\ifelseif\bin\Debug\net6.0\ifelseif.pdb
+F:\kod\CS-dersleri\ifelseif\obj\Debug\net6.0\ifelseif.csproj.AssemblyReference.cache
+F:\kod\CS-dersleri\ifelseif\obj\Debug\net6.0\ifelseif.GeneratedMSBuildEditorConfig.editorconfig
+F:\kod\CS-dersleri\ifelseif\obj\Debug\net6.0\ifelseif.AssemblyInfoInputs.cache
+F:\kod\CS-dersleri\ifelseif\obj\Debug\net6.0\ifelseif.AssemblyInfo.cs
+F:\kod\CS-dersleri\ifelseif\obj\Debug\net6.0\ifelseif.csproj.CoreCompileInputs.cache
+F:\kod\CS-dersleri\ifelseif\obj\Debug\net6.0\ifelseif.dll
+F:\kod\CS-dersleri\ifelseif\obj\Debug\net6.0\refint\ifelseif.dll
+F:\kod\CS-dersleri\ifelseif\obj\Debug\net6.0\ifelseif.pdb
+F:\kod\CS-dersleri\ifelseif\obj\Debug\net6.0\ifelseif.genruntimeconfig.cache
+F:\kod\CS-dersleri\ifelseif\obj\Debug\net6.0\ref\ifelseif.dll

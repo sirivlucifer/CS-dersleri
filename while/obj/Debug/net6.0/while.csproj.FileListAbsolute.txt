@@ -1,0 +1,15 @@
+F:\kod\CS-dersleri\while\bin\Debug\net6.0\while.exe
+F:\kod\CS-dersleri\while\bin\Debug\net6.0\while.deps.json
+F:\kod\CS-dersleri\while\bin\Debug\net6.0\while.runtimeconfig.json
+F:\kod\CS-dersleri\while\bin\Debug\net6.0\while.dll
+F:\kod\CS-dersleri\while\bin\Debug\net6.0\while.pdb
+F:\kod\CS-dersleri\while\obj\Debug\net6.0\while.csproj.AssemblyReference.cache
+F:\kod\CS-dersleri\while\obj\Debug\net6.0\while.GeneratedMSBuildEditorConfig.editorconfig
+F:\kod\CS-dersleri\while\obj\Debug\net6.0\while.AssemblyInfoInputs.cache
+F:\kod\CS-dersleri\while\obj\Debug\net6.0\while.AssemblyInfo.cs
+F:\kod\CS-dersleri\while\obj\Debug\net6.0\while.csproj.CoreCompileInputs.cache
+F:\kod\CS-dersleri\while\obj\Debug\net6.0\while.dll
+F:\kod\CS-dersleri\while\obj\Debug\net6.0\refint\while.dll
+F:\kod\CS-dersleri\while\obj\Debug\net6.0\while.pdb
+F:\kod\CS-dersleri\while\obj\Debug\net6.0\while.genruntimeconfig.cache
+F:\kod\CS-dersleri\while\obj\Debug\net6.0\ref\while.dll
