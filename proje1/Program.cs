@@ -13,7 +13,7 @@ Console.WriteLine("(2) Varolan Numarayı Silmek");
 Console.WriteLine("(3) Varolan Numarayı Güncelleme");
 Console.WriteLine("(4) Rehberi Listelemek");
 Console.WriteLine("(5) Rehberde Arama Yapmak");
-Console.WriteLine("0");
+Console.WriteLine("(6) çıkmak için)");
 
 List<Rehber> kisiler = new List<Rehber>();
 
@@ -43,6 +43,8 @@ switch (islem)
     Arama();
     break;
     default: Console.WriteLine("Hata böyle bir işlem bulunamadı"); break;
+  case 6:
+  break;
 }
 
 void Ekleme(){ 
