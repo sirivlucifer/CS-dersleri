@@ -6,7 +6,7 @@ enum Gunler{
     Pazartesi,
     Salı,
     Çarşamba,
-    Perşembe=45;
+    Perşembe=45,
     Cuma,
     Cumartesi,
     Pazar
