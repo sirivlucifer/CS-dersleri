@@ -68,13 +68,34 @@ namespace todo
             res.LastName=Console.ReadLine();
 
             Console.WriteLine("Lütfen Başlık Giriniz:");
-            res.Card.Title=Console.ReadLine();
+            try{
+                res.Card.Title=Console.ReadLine();
+
+            }
+            catch(Exception ex){
+                Console.WriteLine("Hata: "+ex.Message);
+            }
+            
 
             Console.WriteLine("Lütfen İçerik Giriniz:");
-            res.Card.Contents=Console.ReadLine();
+            try{
+                res.Card.Contents=Console.ReadLine();
+
+            }
+            catch(Exception ex){
+                Console.WriteLine("Hata: "+ex.Message);
+            }
+            
 
             Console.WriteLine("Lütfen Büyüklük Giriniz XS(1),S(2),M(3),L(4),XL(5):");
-            res.Card.Size=(SizeEnum)Convert.ToInt16(Console.ReadLine());
+            try{
+                res.Card.Size=(SizeEnum)Convert.ToInt16(Console.ReadLine());
+
+            }
+            catch(Exception ex){
+                Console.WriteLine("Hata: "+ex.Message);
+            }
+            
 
             res.Line=LineEnum.Todo;
 
