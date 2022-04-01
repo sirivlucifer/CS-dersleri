@@ -1,0 +1,15 @@
+F:\kod\CS-dersleri\coderdeneme\bin\Debug\net6.0\coderdeneme.exe
+F:\kod\CS-dersleri\coderdeneme\bin\Debug\net6.0\coderdeneme.deps.json
+F:\kod\CS-dersleri\coderdeneme\bin\Debug\net6.0\coderdeneme.runtimeconfig.json
+F:\kod\CS-dersleri\coderdeneme\bin\Debug\net6.0\coderdeneme.dll
+F:\kod\CS-dersleri\coderdeneme\bin\Debug\net6.0\coderdeneme.pdb
+F:\kod\CS-dersleri\coderdeneme\obj\Debug\net6.0\coderdeneme.csproj.AssemblyReference.cache
+F:\kod\CS-dersleri\coderdeneme\obj\Debug\net6.0\coderdeneme.GeneratedMSBuildEditorConfig.editorconfig
+F:\kod\CS-dersleri\coderdeneme\obj\Debug\net6.0\coderdeneme.AssemblyInfoInputs.cache
+F:\kod\CS-dersleri\coderdeneme\obj\Debug\net6.0\coderdeneme.AssemblyInfo.cs
+F:\kod\CS-dersleri\coderdeneme\obj\Debug\net6.0\coderdeneme.csproj.CoreCompileInputs.cache
+F:\kod\CS-dersleri\coderdeneme\obj\Debug\net6.0\coderdeneme.dll
+F:\kod\CS-dersleri\coderdeneme\obj\Debug\net6.0\refint\coderdeneme.dll
+F:\kod\CS-dersleri\coderdeneme\obj\Debug\net6.0\coderdeneme.pdb
+F:\kod\CS-dersleri\coderdeneme\obj\Debug\net6.0\coderdeneme.genruntimeconfig.cache
+F:\kod\CS-dersleri\coderdeneme\obj\Debug\net6.0\ref\coderdeneme.dll
